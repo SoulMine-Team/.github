@@ -1,0 +1,3 @@
+## SoulTeam
+
+Команда сервера SoulMine.
